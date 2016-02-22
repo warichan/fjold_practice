@@ -1,1 +1,2 @@
 pull --rebaseを行う
+git stashは一時的に作業を退避する事です。
