@@ -1,3 +1,5 @@
 gitに慣れる為に今日も色々弄ってみます
 
 aaaaaaaas
+
+Rails難しいよ〜
